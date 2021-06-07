@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am Anuj Khandelwal. My main interest lies in Machine Learning and Data Science. I also have basic knowledge of NLP. I am always curious to learn something new.
+
+
 
 <!--
 **khandelwalanuj/khandelwalanuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
